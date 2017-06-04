@@ -13,4 +13,4 @@
 
 
 ## Credits
-Credits for this project go to [LSTM_tsc](https://github.com/RobRomijnders/LSTM_tsc) for providing a strong example, the [UCR archive](http://www.cs.ucr.edu/~eamonn/time_series_data/) for the dataset.
+Credits for this project go to [LSTM_tsc](https://github.com/RobRomijnders/LSTM_tsc) for providing a strong example and the [UCR archive](http://www.cs.ucr.edu/~eamonn/time_series_data/) for the dataset.
