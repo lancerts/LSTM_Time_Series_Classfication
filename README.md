@@ -6,10 +6,10 @@
 
 ##  2017-06-04
 * The code is compatible for python 3.6 and tensorflow 1.1.
-* The static RNN is deployed in the post above and we adopt the dynamical RNN in
-  tensorflow in the code.
+* The static RNN is deployed in the post [LSTM_tsc](https://github.com/RobRomijnders/LSTM_tsc) and we adopt the dynamical RNN in
+  tensorflow to achieve better computational speed.
 * We further modify the batch process and add the GRU cells.
-* For the ChlorineConcentration data set, applying the train-test (10%/90%) split discussed in [this paper,](https://arxiv.org/pdf/1603.06995v4.pdf), it is easy to reach >75% test accuracy.
+* For the ChlorineConcentration data set, applying the train-test (10%/90%) split discussed in [this paper](https://arxiv.org/pdf/1603.06995v4.pdf), it is easy to reach >75% test accuracy.
 
 
 ## Credits
